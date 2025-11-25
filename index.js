@@ -4,7 +4,7 @@ const Gamedig = require("gamedig");
 // ======================
 // CONFIG
 // ======================
-const TOKEN = "ODA4MzA2MTQ3OTM3MzUzNzU5.GNvV44.TwDt0VkFNGRaKO0Wany8FW-5bUldmh0M05L3yk";
+const TOKEN = "";
 const RUST_IP = "92.118.16.152";
 const QUERY_PORT = 28016;
 const UPDATE_INTERVAL = 30000;
